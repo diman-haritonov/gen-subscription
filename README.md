@@ -131,6 +131,5 @@ vless://key@ru10.xxxx:port?security=reality&type=tcp&fp=firefox&sni=sni&pbk=pbk&
 ## 🧩 Лицензия
 
 MIT License  
-Автор: **DMITRY KHARITONOV**
 
 ---
